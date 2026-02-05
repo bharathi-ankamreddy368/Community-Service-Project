@@ -1,6 +1,6 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 const firebaseConfig = {
-    apiKey: "AIzaSyCwj12v8_5Tfw_v8dqiwlMimAPVFK1z9rU",
+    apiKey: "BHARATHI_API_KEY",
     authDomain: "authentication-d3540.firebaseapp.com",
     databaseURL: "https://authentication-d3540-default-rtdb.firebaseio.com",
     projectId: "authentication-d3540",
